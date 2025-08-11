@@ -1,0 +1,13 @@
+item:
+  material: NETHER_STAR
+  slot: 4
+  name: "§6§lMenú Principal"
+  lore:
+    - "§7Haz clic para abrir el menú"
+    - "§eDisponible siempre"
+  commands:
+    - "menu abrir"
+    - "msg %player% ¡Has abierto el menú!"
+  click-type: RIGHT
+  bedrock-only: false
+  permission: ""
